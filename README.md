@@ -32,6 +32,9 @@ Besides the aspects shown in the figure, this repository will also include: over
 ## Benchmarks
 
 1. [OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems.](https://github.com/OpenBMB/OlympiadBench) ACL2024
+1. [CFBench: A Comprehensive Constraints-Following Benchmark for LLMs](https://arxiv.org/abs/2408.01122) 2024.8
+
+
 
 ## Prompt Design
 
