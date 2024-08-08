@@ -21,6 +21,9 @@ Besides the aspects shown in the figure, this repository will also include: over
 
 ## Agent
 
+1. [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479) 2024.8
+2. [MathLearner: A Large Language Model Agent Framework for Learning to Solve Mathematical Problems](https://arxiv.org/abs/2408.01779) 2024.8
+
 ## Multi-agent Collaboration
 
 1. [Experiential Co-Learning](https://arxiv.org/abs/2312.17025) ACL2024
@@ -32,7 +35,12 @@ Besides the aspects shown in the figure, this repository will also include: over
 ## Benchmarks
 
 1. [OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems.](https://github.com/OpenBMB/OlympiadBench) ACL2024
+
 1. [CFBench: A Comprehensive Constraints-Following Benchmark for LLMs](https://arxiv.org/abs/2408.01122) 2024.8
+
+1. [Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information](https://arxiv.org/abs/2408.02559) 2024.8
+
+   
 
 
 
