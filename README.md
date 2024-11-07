@@ -13,6 +13,7 @@ Besides the aspects shown in the figure, this repository will also include: over
 
 1. [Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries](https://arxiv.org/abs/2407.21778) 2024.7
 1. [Reason for Future, Act for Now: A Principled Architecture for Autonomous LLM Agents](https://openreview.net/pdf?id=MGkeWJxQVl) ICML2024
+1. [Multi-Programming Language Sandbox for LLMs](https://arxiv.org/pdf/2410.23074) 2024.10
 
 ## Memory
 
@@ -29,6 +30,13 @@ Besides the aspects shown in the figure, this repository will also include: over
 1. [Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?](https://arxiv.org/abs/2402.18272) ACL2024
 1. [Strategic Chain-of-Thought: Guiding Accurate Reasoning in LLMs through Strategy Elicitation](https://arxiv.org/abs/2409.03271) 2024.9
 1. [Self-Harmonized Chain of Thought](https://arxiv.org/abs/2409.04057) 2024.9
+1. [Iteration of Thought: Leveraging Inner Dialogue for Autonomous Large Language Model Reasoning](https://arxiv.org/abs/2409.12618) 2024.9
+1. [Textualized Agent-Style Reasoning for Complex Tasks by Multiple Round LLM Generation](https://arxiv.org/pdf/2409.12411) 2024.9
+1. [Logic-of-Thought: Injecting Logic into Contexts for Full Reasoning in Large Language Models](https://arxiv.org/abs/2409.17539) 2024.9
+1. [BEATS: OPTIMIZING LLM MATHEMATICAL CAPABILITIES WITH BACKVERIFY AND ADAPTIVE DISAMBIGUATE BASED EFFICIENT TREE SEARCH](https://arxiv.org/pdf/2409.17972) 2024.9
+1. [HDFLOW: ENHANCING LLM COMPLEX PROBLEMSOLVING WITH HYBRID THINKING AND DYNAMIC WORKFLOWS](https://arxiv.org/pdf/2409.17433) 2024.9
+1. [CoMAT: Chain of Mathematically Annotated Thought Improves Mathematical Reasoning](https://arxiv.org/abs/2410.10336) 2024.10
+1. [Optimizing Chain-of-Thought Reasoning: Tackling Arranging Bottleneck via Plan Augmentation](https://arxiv.org/abs/2410.16812) 2024.10
 
 ## Agent
 
@@ -45,6 +53,7 @@ Besides the aspects shown in the figure, this repository will also include: over
 1. [Experiential Co-Learning](https://arxiv.org/abs/2312.17025) ACL2024
 1. [Should we be going MAD? A Look at Multi-Agent Debate Strategies for LLMs](https://openreview.net/forum?id=CrUmgUaAQp) ICML2024
 1. [Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://arxiv.org/pdf/2305.14325) ICML2024
+1. [Synergistic Simulations: Multi-Agent Problem Solving with Large Language Models](https://arxiv.org/abs/2409.13753)
 
 # Additional Topics Covered
 
@@ -60,13 +69,18 @@ Besides the aspects shown in the figure, this repository will also include: over
 
 1. [TravelPlanner: A Benchmark for Real-World Planning with Language Agents](https://arxiv.org/pdf/2402.01622) ICML 2024
 
+1. [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373) 2024.9
+
+1. [Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models](https://arxiv.org/abs/2410.07985)
+
    
 
 
 
 ## Prompt Design
 
-
+1. [Minstrel: Structural Prompt Generation with Multi-Agents
+   Coordination for Non-AI Experts](https://arxiv.org/pdf/2409.13449) 2024.9
 
 # Continuous Updates
 
