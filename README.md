@@ -37,6 +37,10 @@ Besides the aspects shown in the figure, this repository will also include: over
 1. [HDFLOW: ENHANCING LLM COMPLEX PROBLEMSOLVING WITH HYBRID THINKING AND DYNAMIC WORKFLOWS](https://arxiv.org/pdf/2409.17433) 2024.9
 1. [CoMAT: Chain of Mathematically Annotated Thought Improves Mathematical Reasoning](https://arxiv.org/abs/2410.10336) 2024.10
 1. [Optimizing Chain-of-Thought Reasoning: Tackling Arranging Bottleneck via Plan Augmentation](https://arxiv.org/abs/2410.16812) 2024.10
+1. [Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph](https://arxiv.org/abs/2411.19064) 2024.12 KDD2025
+1. [MTMT: Consolidating Multiple Thinking Modes to Form a Thought Tree for Strengthening LLM](https://arxiv.org/pdf/2412.03987) 2024.12
+1. [THINK-ON-GRAPH: DEEP AND RESPONSIBLE REASONING OF LARGE LANGUAGE MODEL ON KNOWLEDGE GRAPH](https://arxiv.org/pdf/2307.07697) ICLR 2024
+1. [ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis](https://arxiv.org/abs/2403.06932) 2024.3 ACL2024
 
 ## Agent
 
@@ -71,7 +75,7 @@ Besides the aspects shown in the figure, this repository will also include: over
 
 1. [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373) 2024.9
 
-1. [Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models](https://arxiv.org/abs/2410.07985)
+1. [Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models](https://arxiv.org/abs/2410.07985) 2024.10
 
    
 
